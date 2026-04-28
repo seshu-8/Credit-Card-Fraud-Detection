@@ -211,7 +211,7 @@ This project uses **synthetically generated data** that mirrors the structure of
 
 **Seshu** —| VLSI Learner  
 📍 Andhra Pradesh, India  
-🔗 [GitHub](https://github.com/seshu-8) | [LinkedIn](www.linkedin.com/in/seshu-babu-konijeti-74968b2b9)
+🔗 [GitHub](https://github.com/seshu-8) | [LinkedIn](www.linkedin.com/in/seshu-babu-konijeti)
 
 ---
 
