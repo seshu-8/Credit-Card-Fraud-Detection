@@ -209,9 +209,9 @@ This project uses **synthetically generated data** that mirrors the structure of
 
 ## 👤 Author
 
-**Seshu** — CS Student | VLSI & Data Science Learner  
+**Seshu** —| VLSI Learner  
 📍 Andhra Pradesh, India  
-🔗 [GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+🔗 [GitHub](https://github.com/seshu-8) | [LinkedIn](www.linkedin.com/in/seshu-babu-konijeti-74968b2b9)
 
 ---
 
